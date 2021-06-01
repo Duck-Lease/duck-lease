@@ -7,7 +7,7 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: We are Duck Lease
     subtitle: |
-      Duck Lease has one goal. Help you find duck out of your lease! 
+      Duck Lease has one goal. To help you find a way duck out of your lease!
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
