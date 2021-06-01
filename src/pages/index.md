@@ -50,7 +50,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Find your new home now!
-    subtitle: from $149.99
+    subtitle: from $50*
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
