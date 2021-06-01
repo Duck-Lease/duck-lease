@@ -6,12 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
+    content: |
       # Duck Lease
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Easily and simply trade your lease with somebody else!
     actions:
       - title: See all properties
         url: /store
